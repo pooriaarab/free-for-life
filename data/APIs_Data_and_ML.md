@@ -3,10 +3,13 @@
 | Website | Description |
 |:-:|-|
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases, including IP geo-location, gender detection, or even email validation. |
+| [Agent Wallet Index](https://agentwalletindex.fyi) | Free directory and read-only REST API for agent wallets and payment rails, with an MCP endpoint and no API key required. |
+| [AgentSandboxes](https://agentsandboxes.fyi) | Free directory and read-only REST API for cloud sandbox providers for AI agents, with an MCP endpoint and no API key required. |
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes a free monthly allowance for running algorithms. Now with CLI support. |
 | [Apify](https://www.apify.com) | Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month. |
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models. |
 | [Atlas Toolkit](https://atlastk.org) | Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby. |
+| [AuctionFinder](https://auctionfinder.fyi) | Free directory and read-only REST API for auction houses, online auction platforms and government surplus programs, with an MCP endpoint and no API key required. |
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
 | [Beeceptor](https://beeceptor.com?utm_source=free-for-life) | Create a Mock API server in a few seconds. Free 50 requests per day for life, and no need of credit card. Beeceptor is a no-code solution to iterate API design faster and allow parallel development.|
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
@@ -19,6 +22,7 @@
 | [Coupler](https://www.coupler.io) | Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month, and unlimited integrations. |
 | [Court Rules](https://www.courtrules.app) | Free U.S. court rules, judge standing orders and court holiday calendars, with an API and MCP server. |
 | [CraftMyPDF](https://craftmypdf.com) | Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and 3 templates. |
+| [CreditUnions](https://creditunions.fyi) | Free directory and read-only REST API for federally insured US credit unions from NCUA data, with an MCP endpoint and no API key required. |
 | [CSV SafeCheck](https://csv-safecheck.pages.dev) | Free Shopify product CSV preflight checker with row and column findings and conservative fixes. Runs locally in the browser with no signup or file upload. |
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
 | [CurlHub](https://curlhub.io) | Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month. |
@@ -32,8 +36,15 @@
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
+| [Doulas](https://doulas.fyi) | Free directory and read-only REST API for birth, postpartum and end-of-life doulas by city, with an MCP endpoint and no API key required. |
+| [Driving Schools](https://drivingschools.fyi) | Free directory and read-only REST API for driving schools by city and vehicle type, with an MCP endpoint and no API key required. |
+| [Eating Disorder Directory](https://eatingdisorder.fyi) | Free directory and read-only REST API for US eating disorder treatment programs from SAMHSA data, with an MCP endpoint and no API key required. |
 | [ExtendsClass](https://extendsclass.com/csv-generator.html) | Data generator tool for generating test data in CSV, SQL, XML, and JSON formats. |
+| [FertilityClinics](https://fertilityclinics.fyi) | Free directory and read-only REST API for US fertility and IVF clinics from CDC data, with an MCP endpoint and no API key required. |
+| [ForeclosureListings](https://foreclosurelistings.fyi) | Free directory and read-only REST API for foreclosure notices, sale information and housing assistance, with an MCP endpoint and no API key required. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
+| [French4PR](https://french4pr.com) | Free directory and read-only REST API for French test centres, schools and tutors for Canadian immigration, with an MCP endpoint and no API key required. |
+| [ImmigrationHelp](https://immigrationhelp.fyi) | Free directory and read-only REST API for DOJ-authorized US immigration legal providers, with an MCP endpoint and no API key required. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
@@ -42,8 +53,10 @@
 | [Noms](https://noms.sh) | Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food. Free tier: 250 requests/day, no credit card. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
 | [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
+| [PetCremation](https://petcremation.fyi) | Free directory and read-only REST API for pet crematories and aftercare providers by city, with an MCP endpoint and no API key required. |
 | [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
 | [Requesty](https://www.requesty.ai/free-models) | OpenAI compatible LLM API gateway. The free plan gives access to the free models in the catalog with 200 requests per day and no credit card required. |
+| [Robotaxis](https://robotaxis.fyi) | Free directory and read-only REST API for robotaxi services by city and operator, with an MCP endpoint and no API key required. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
